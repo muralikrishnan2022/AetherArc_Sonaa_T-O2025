@@ -19,7 +19,7 @@ The project documentation is available in PDF format:
 
 - **Document Name**: AetherArc_Sonaa_T$O2025_Document.pdf
 - **Format**: PDF  
-- **Location**: [Link to the PDF file in the repository, e.g., `/docs/AetherArc_Sonaa_T-O2025_Document.pdf`]
+- **Location**:  `/docs/AetherArc_Sonaa_T-O2025_Document.pdf`
 
 ## Contact
 
