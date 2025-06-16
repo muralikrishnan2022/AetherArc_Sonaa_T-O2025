@@ -17,7 +17,7 @@ The pitch video provides an overview of the **T-O2025** project. You can watch i
 
 The project documentation is available in PDF format:
 
-- **Document Name**: AetherArc_Sonaa_T-O2025_Document.pdf  
+- **Document Name**: AetherArc_Sonaa_T$O2025_Document.pdf
 - **Format**: PDF  
 - **Location**: [Link to the PDF file in the repository, e.g., `/docs/AetherArc_Sonaa_T-O2025_Document.pdf`]
 
