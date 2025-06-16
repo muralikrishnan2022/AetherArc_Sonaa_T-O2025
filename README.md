@@ -4,7 +4,7 @@ Welcome to the **AetherArc_Sonaa_T$O2025** GitHub repository! This repository is
 
 ## Project Overview
 
-The **T$O2025** project is developed by the Aethe rArc team. This repository contains all key project deliverables, including documentation and multimedia resources, to showcase the project's objectives and outcomes.
+The **T$O2025** project is developed by the Aether Arc team. This repository contains all key project deliverables, including documentation and multimedia resources, to showcase the project's objectives and outcomes.
 
 ## Pitch Video
 
