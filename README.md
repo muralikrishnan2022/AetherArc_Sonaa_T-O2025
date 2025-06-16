@@ -11,7 +11,7 @@ The **T$O2025** project is developed by the AetherArc team. This repository cont
 The pitch video provides an overview of the **T$O2025** project. You can watch it on YouTube:
 
 - **Video Title**: AetherArc_Sonaa_T$O2025_PitchVideo 
-- **Link**: [Insert YouTube link here]
+- **Link**: [(https://youtu.be/NP0SAlyKEpA)]
 
 ## Document
 
